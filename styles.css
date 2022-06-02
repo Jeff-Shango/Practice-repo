@@ -1,0 +1,28 @@
+.container-1 :hover{
+    color: blue;
+    transition: 5s;
+}
+
+.container-1{
+    border-bottom: solid;
+}
+
+.main-header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: overline;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+button{
+    width: 100%;
+    padding: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: overline;
+}
+
+footer{
+    text-align: center;
+}
